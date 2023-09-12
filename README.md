@@ -1,7 +1,6 @@
 # 📜 Cordel Moderno
 
 Bem-vindo ao projeto Cordel Moderno! Este é um projeto que apresenta uma série de poesias no estilo de cordel moderno, escrito por [Milton Duarte]
-![Cordel](https://user-images.githubusercontent.com/102436341/228715973-f2b79c9d-f924-4c24-953b-5f4302d12e30.png)
 
 ## 💡 Sobre o Projeto
 
@@ -26,6 +25,8 @@ Este projeto foi construído com as seguintes tecnologias:
 ## 🚀 Como Usar
 
 Você pode acessar este projeto online em [Cordel Moderno](https://paulo-santos360.github.io/Curso-em-Video-Cordel/).
+
+![Cordel](https://user-images.githubusercontent.com/102436341/228715973-f2b79c9d-f924-4c24-953b-5f4302d12e30.png)
 
 Se preferir, pode clonar este repositório e executá-lo localmente em seu navegador. Basta abrir o arquivo `index.html` no seu navegador preferido.
 
